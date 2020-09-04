@@ -1,2 +1,2 @@
-# dj_project_python
+# Data parser
 Python data parser exersize 
